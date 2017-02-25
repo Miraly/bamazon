@@ -1,5 +1,7 @@
 # bamazon
 
+Test video is under this repository!
+
 Amazon-like storefront with the MySQL skills. The app takes in orders from customers and deplete stock from the store's inventory. 
 
 Used the MySQL and Prompt npm packages.
